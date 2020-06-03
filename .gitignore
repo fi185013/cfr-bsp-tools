@@ -109,3 +109,6 @@ secret.json
 
 # VS Code custom config
 .vscode
+
+.DS_Store
+*.DS_Store*
