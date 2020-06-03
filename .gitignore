@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Secret credentials
+secret.json
+*secret.json*
+
+# VS Code custom config
+.vscode

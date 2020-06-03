@@ -1,0 +1,616 @@
+{
+  "sites": {
+    "demo-101": {
+      "euName": "demo-101",
+      "userName": "demo-101",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "cbc8c089f54f4fd4a11882af650e8470",
+      "euId": "cbc8c089f54f4fd4a11882af650e8470",
+      "userNameCanonical": "acct:fi185013-1@demo-101"
+    },
+    "demo-111": {
+      "euName": "demo-111",
+      "userName": "demo-111",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "1baaeff61472454aafbfca72422c33f7",
+      "euId": "1baaeff61472454aafbfca72422c33f7",
+      "userNameCanonical": "acct:fi185013-1@demo-111"
+    },
+    "auto-test-001": {
+      "euName": "auto-test-001",
+      "userName": "auto-test-001",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "4e9519efdc8a442bbf09faaf2301162b",
+      "euId": "4e9519efdc8a442bbf09faaf2301162b",
+      "userNameCanonical": "acct:fi185013-1@auto-test-001"
+    },
+    "auto-test-002": {
+      "euName": "auto-test-002",
+      "userName": "auto-test-002",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "d00b63ae709b4ab98e37abdd76ee2a11",
+      "euId": "d00b63ae709b4ab98e37abdd76ee2a11",
+      "userNameCanonical": "acct:fi185013-1@auto-test-002"
+    },
+    "auto-test-003": {
+      "euName": "auto-test-003",
+      "userName": "auto-test-003",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "489501243b70421292978122408759f2",
+      "euId": "489501243b70421292978122408759f2",
+      "userNameCanonical": "acct:fi185013-1@auto-test-003"
+    },
+    "auto-test-004": {
+      "euName": "auto-test-004",
+      "userName": "auto-test-004",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "92049c54f7bb46678615a086e802fea7",
+      "euId": "92049c54f7bb46678615a086e802fea7",
+      "userNameCanonical": "acct:fi185013-1@auto-test-004"
+    },
+    "auto-test-005": {
+      "euName": "auto-test-005",
+      "userName": "auto-test-005",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "4dcb09e55b334f69a0e065cfe368706b",
+      "euId": "4dcb09e55b334f69a0e065cfe368706b",
+      "userNameCanonical": "acct:fi185013-1@auto-test-005"
+    },
+    "auto-test-006": {
+      "euName": "auto-test-006",
+      "userName": "auto-test-006",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "1f37bba5112047758f63cf9f52f1fd84",
+      "euId": "1f37bba5112047758f63cf9f52f1fd84",
+      "userNameCanonical": "acct:fi185013-1@auto-test-006"
+    },
+    "auto-test-007": {
+      "euName": "auto-test-007",
+      "userName": "auto-test-007",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "094f4252783745d8bd27fd348130c316",
+      "euId": "094f4252783745d8bd27fd348130c316",
+      "userNameCanonical": "acct:fi185013-1@auto-test-007"
+    },
+    "auto-test-008": {
+      "euName": "auto-test-008",
+      "userName": "auto-test-008",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "1d03a6dd757a4ba4abd683c1d2189e32",
+      "euId": "1d03a6dd757a4ba4abd683c1d2189e32",
+      "userNameCanonical": "acct:fi185013-1@auto-test-008"
+    },
+    "auto-test-009": {
+      "euName": "auto-test-009",
+      "userName": "auto-test-009",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "cebdd054fed54a84848174df5c30b33e",
+      "euId": "cebdd054fed54a84848174df5c30b33e",
+      "userNameCanonical": "acct:fi185013-1@auto-test-009"
+    },
+    "auto-test-010": {
+      "euName": "auto-test-010",
+      "userName": "auto-test-010",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "3285fcaf414148bd83c4e7707115453d",
+      "euId": "3285fcaf414148bd83c4e7707115453d",
+      "userNameCanonical": "acct:fi185013-1@auto-test-010"
+    },
+    "auto-test-011": {
+      "euName": "auto-test-011",
+      "userName": "auto-test-011",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "0f9e75b2735842dd9d3442a14f83c9a4",
+      "euId": "0f9e75b2735842dd9d3442a14f83c9a4",
+      "userNameCanonical": "acct:fi185013-1@auto-test-011"
+    },
+    "auto-test-012": {
+      "euName": "auto-test-012",
+      "userName": "auto-test-012",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "f8b50878a07a49718a6ac3bb2421684d",
+      "euId": "f8b50878a07a49718a6ac3bb2421684d",
+      "userNameCanonical": "acct:fi185013-1@auto-test-012"
+    },
+    "auto-test-013": {
+      "euName": "auto-test-013",
+      "userName": "auto-test-013",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "c936bb713983413d88e58f84c5a5227c",
+      "euId": "c936bb713983413d88e58f84c5a5227c",
+      "userNameCanonical": "acct:fi185013-1@auto-test-013"
+    },
+    "auto-test-014": {
+      "euName": "auto-test-014",
+      "userName": "auto-test-014",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "a7844ae022aa4595bb57cb9d15124708",
+      "euId": "a7844ae022aa4595bb57cb9d15124708",
+      "userNameCanonical": "acct:fi185013-1@auto-test-014"
+    },
+    "auto-test-015": {
+      "euName": "auto-test-015",
+      "userName": "auto-test-015",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "2ac572bef3d249bbb5487c75ccd463c7",
+      "euId": "2ac572bef3d249bbb5487c75ccd463c7",
+      "userNameCanonical": "acct:fi185013-1@auto-test-015"
+    },
+    "auto-test-016": {
+      "euName": "auto-test-016",
+      "userName": "auto-test-016",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "d003fb389e8d4b7fbea26933ce4a4a9e",
+      "euId": "d003fb389e8d4b7fbea26933ce4a4a9e",
+      "userNameCanonical": "acct:fi185013-1@auto-test-016"
+    },
+    "auto-test-017": {
+      "euName": "auto-test-017",
+      "userName": "auto-test-017",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "34525bebbdf148e8a10b1bd5ec761248",
+      "euId": "34525bebbdf148e8a10b1bd5ec761248",
+      "userNameCanonical": "acct:fi185013-1@auto-test-017"
+    },
+    "auto-test-018": {
+      "euName": "auto-test-018",
+      "userName": "auto-test-018",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "f0f2cfa30f204faa9154298f43e44e1b",
+      "euId": "f0f2cfa30f204faa9154298f43e44e1b",
+      "userNameCanonical": "acct:fi185013-1@auto-test-018"
+    },
+    "auto-test-019": {
+      "euName": "auto-test-019",
+      "userName": "auto-test-019",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "58ab7e442cdf4f4e9c65ba96e4c79f77",
+      "euId": "58ab7e442cdf4f4e9c65ba96e4c79f77",
+      "userNameCanonical": "acct:fi185013-1@auto-test-019"
+    },
+    "auto-test-020": {
+      "euName": "auto-test-020",
+      "userName": "auto-test-020",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "a39b464e984749ddb964ced731f2add4",
+      "euId": "a39b464e984749ddb964ced731f2add4",
+      "userNameCanonical": "acct:fi185013-1@auto-test-020"
+    },
+    "auto-test-021": {
+      "euName": "auto-test-021",
+      "userName": "auto-test-021",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "54c59a3482c54572b0d0f95bd3100575",
+      "euId": "54c59a3482c54572b0d0f95bd3100575",
+      "userNameCanonical": "acct:fi185013-1@auto-test-021"
+    },
+    "auto-test-022": {
+      "euName": "auto-test-022",
+      "userName": "auto-test-022",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "43619f7e97674ff7b9923d996284279e",
+      "euId": "43619f7e97674ff7b9923d996284279e",
+      "userNameCanonical": "acct:fi185013-1@auto-test-022"
+    },
+    "auto-test-023": {
+      "euName": "auto-test-023",
+      "userName": "auto-test-023",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "1b3557baf7f4433f94e2cfcaea99535c",
+      "euId": "1b3557baf7f4433f94e2cfcaea99535c",
+      "userNameCanonical": "acct:fi185013-1@auto-test-023"
+    },
+    "auto-test-024": {
+      "euName": "auto-test-024",
+      "userName": "auto-test-024",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "e11d83c5515748e896c4898b76d529e9",
+      "euId": "e11d83c5515748e896c4898b76d529e9",
+      "userNameCanonical": "acct:fi185013-1@auto-test-024"
+    },
+    "auto-test-025": {
+      "euName": "auto-test-025",
+      "userName": "auto-test-025",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "35f262721fbc45cfaf249ef7ed029863",
+      "euId": "35f262721fbc45cfaf249ef7ed029863",
+      "userNameCanonical": "acct:fi185013-1@auto-test-025"
+    },
+    "auto-test-026": {
+      "euName": "auto-test-026",
+      "userName": "auto-test-026",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "7e3a9153959d475ea12ea271b7418469",
+      "euId": "7e3a9153959d475ea12ea271b7418469",
+      "userNameCanonical": "acct:fi185013-1@auto-test-026"
+    },
+    "auto-test-027": {
+      "euName": "auto-test-027",
+      "userName": "auto-test-027",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "5bedd6455cb94cc58486ce185e0e9156",
+      "euId": "5bedd6455cb94cc58486ce185e0e9156",
+      "userNameCanonical": "acct:fi185013-1@auto-test-027"
+    },
+    "auto-test-028": {
+      "euName": "auto-test-028",
+      "userName": "auto-test-028",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "1471b44bbcaa45bf978405fda95cd942",
+      "euId": "1471b44bbcaa45bf978405fda95cd942",
+      "userNameCanonical": "acct:fi185013-1@auto-test-028"
+    },
+    "auto-test-029": {
+      "euName": "auto-test-029",
+      "userName": "auto-test-029",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "980011cdc7e24c1a8cb99bbfe6d4a375",
+      "euId": "980011cdc7e24c1a8cb99bbfe6d4a375",
+      "userNameCanonical": "acct:fi185013-1@auto-test-029"
+    },
+    "auto-test-030": {
+      "euName": "auto-test-030",
+      "userName": "auto-test-030",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "7e64fa7d6f284ab7a9169b32f77cc32d",
+      "euId": "7e64fa7d6f284ab7a9169b32f77cc32d",
+      "userNameCanonical": "acct:fi185013-1@auto-test-030"
+    },
+    "auto-test-031": {
+      "euName": "auto-test-031",
+      "userName": "auto-test-031",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "080afdff5dd24e8fa2d4cbf2f8e1ad3b",
+      "euId": "080afdff5dd24e8fa2d4cbf2f8e1ad3b",
+      "userNameCanonical": "acct:fi185013-1@auto-test-031"
+    },
+    "auto-test-032": {
+      "euName": "auto-test-032",
+      "userName": "auto-test-032",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "f3953f4e241e4c238fd4026b8119e7b8",
+      "euId": "f3953f4e241e4c238fd4026b8119e7b8",
+      "userNameCanonical": "acct:fi185013-1@auto-test-032"
+    },
+    "auto-test-033": {
+      "euName": "auto-test-033",
+      "userName": "auto-test-033",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "553049d360a2484a99417c7ed68cc8ee",
+      "euId": "553049d360a2484a99417c7ed68cc8ee",
+      "userNameCanonical": "acct:fi185013-1@auto-test-033"
+    },
+    "auto-test-034": {
+      "euName": "auto-test-034",
+      "userName": "auto-test-034",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "e08a4a326f26423d96f5ce1d3295cad7",
+      "euId": "e08a4a326f26423d96f5ce1d3295cad7",
+      "userNameCanonical": "acct:fi185013-1@auto-test-034"
+    },
+    "auto-test-035": {
+      "euName": "auto-test-035",
+      "userName": "auto-test-035",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "4e239ec8e3c745159a7152c01774b13e",
+      "euId": "4e239ec8e3c745159a7152c01774b13e",
+      "userNameCanonical": "acct:fi185013-1@auto-test-035"
+    },
+    "auto-test-036": {
+      "euName": "auto-test-036",
+      "userName": "auto-test-036",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "78d5c97422044115be7a5e0e381e98b5",
+      "euId": "78d5c97422044115be7a5e0e381e98b5",
+      "userNameCanonical": "acct:fi185013-1@auto-test-036"
+    },
+    "auto-test-037": {
+      "euName": "auto-test-037",
+      "userName": "auto-test-037",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "d277f0eb4ba34d93bf49f855e548f10a",
+      "euId": "d277f0eb4ba34d93bf49f855e548f10a",
+      "userNameCanonical": "acct:fi185013-1@auto-test-037"
+    },
+    "auto-test-038": {
+      "euName": "auto-test-038",
+      "userName": "auto-test-038",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "40dfb28b654a4a0ca256e4c44f0baa83",
+      "euId": "40dfb28b654a4a0ca256e4c44f0baa83",
+      "userNameCanonical": "acct:fi185013-1@auto-test-038"
+    },
+    "auto-test-039": {
+      "euName": "auto-test-039",
+      "userName": "auto-test-039",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "10fa814de4b9407abd20b97d932a5ef3",
+      "euId": "10fa814de4b9407abd20b97d932a5ef3",
+      "userNameCanonical": "acct:fi185013-1@auto-test-039"
+    },
+    "auto-test-040": {
+      "euName": "auto-test-040",
+      "userName": "auto-test-040",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "e9326f1def7e4f4899296dc4c5f58d1d",
+      "euId": "e9326f1def7e4f4899296dc4c5f58d1d",
+      "userNameCanonical": "acct:fi185013-1@auto-test-040"
+    },
+    "auto-test-041": {
+      "euName": "auto-test-041",
+      "userName": "auto-test-041",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "f01cf4a956704c18a87fa6677525c1f2",
+      "euId": "f01cf4a956704c18a87fa6677525c1f2",
+      "userNameCanonical": "acct:fi185013-1@auto-test-041"
+    },
+    "auto-test-042": {
+      "euName": "auto-test-042",
+      "userName": "auto-test-042",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "541930c093c24787b75347df06f863e4",
+      "euId": "541930c093c24787b75347df06f863e4",
+      "userNameCanonical": "acct:fi185013-1@auto-test-042"
+    },
+    "auto-test-043": {
+      "euName": "auto-test-043",
+      "userName": "auto-test-043",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "f7f65f2b7ca84f7da687dcd004666846",
+      "euId": "f7f65f2b7ca84f7da687dcd004666846",
+      "userNameCanonical": "acct:fi185013-1@auto-test-043"
+    },
+    "auto-test-044": {
+      "euName": "auto-test-044",
+      "userName": "auto-test-044",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "1436dbda09e040539f1d789c9707f034",
+      "euId": "1436dbda09e040539f1d789c9707f034",
+      "userNameCanonical": "acct:fi185013-1@auto-test-044"
+    },
+    "auto-test-045": {
+      "euName": "auto-test-045",
+      "userName": "auto-test-045",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "9bf6a688d08b46b8aca2fa93de3accb7",
+      "euId": "9bf6a688d08b46b8aca2fa93de3accb7",
+      "userNameCanonical": "acct:fi185013-1@auto-test-045"
+    },
+    "auto-test-046": {
+      "euName": "auto-test-046",
+      "userName": "auto-test-046",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "42653b651f4f4af58affb52b62d8f300",
+      "euId": "42653b651f4f4af58affb52b62d8f300",
+      "userNameCanonical": "acct:fi185013-1@auto-test-046"
+    },
+    "auto-test-047": {
+      "euName": "auto-test-047",
+      "userName": "auto-test-047",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "965c971cde284f11894bd16fa9a8b8a8",
+      "euId": "965c971cde284f11894bd16fa9a8b8a8",
+      "userNameCanonical": "acct:fi185013-1@auto-test-047"
+    },
+    "auto-test-048": {
+      "euName": "auto-test-048",
+      "userName": "auto-test-048",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "9a7b3642fa81432b8c152d327ac73978",
+      "euId": "9a7b3642fa81432b8c152d327ac73978",
+      "userNameCanonical": "acct:fi185013-1@auto-test-048"
+    },
+    "auto-test-049": {
+      "euName": "auto-test-049",
+      "userName": "auto-test-049",
+      "coordinates": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "status": "ACTIVE",
+      "siteId": "a2a337aa296b482b9c6f00702cbf654d",
+      "euId": "a2a337aa296b482b9c6f00702cbf654d",
+      "userNameCanonical": "acct:fi185013-1@auto-test-049"
+    }
+  }
+}

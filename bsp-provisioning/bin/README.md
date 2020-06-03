@@ -1,13 +1,4 @@
-# cfr-bsp-tools
-Tools for interacting with BSP services used by the CFR team
-
-___
-
-bsp-provisioning
-======
-
-### Automated scripts for provisioning BSP services
-
+# Automated scripts for provisioning BSP services
 
 **Install:** run command `npm install` from root of repository.
 
@@ -24,14 +15,3 @@ Creates a set of `exporter-*.json` files containing sites, users and groups.
 
 ## verifier.ts
 Checks if input and output lists of users and sites match.
-
-___
-
-
-
-cfr-bsp-cli
-======
-### Command line interface tools for monitoring Order Service
-
-(WIP)
-___

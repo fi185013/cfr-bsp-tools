@@ -1,0 +1,30 @@
+{
+  "name": "@ncr/bsp-client",
+  "version": "0.0.0",
+  "description": "Client classes for interacting with BSP services",
+  "license": "UNLICENSED",
+  "author": "",
+  "files": [
+    "out/*"
+  ],
+  "main": "out/index.js",
+  "types": "out/index.d.ts",
+  "repository": {},
+  "scripts": {
+    "build": "npx tsc -p ./",
+    "lint": "npx tslint --fix src/*.ts tests/*.ts tests/**/*.ts scripts/*.ts"
+  },
+  "dependencies": {
+    "@types/papaparse": "^5.0.3",
+    "axios": "^0.19.2",
+    "moment": "^2.26.0",
+    "papaparse": "^5.2.0",
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.34",
+    "tslint": "^5.20.0",
+    "typescript": "^3.8.3",
+    "@types/uuid": "^3.4.5"
+  }
+}

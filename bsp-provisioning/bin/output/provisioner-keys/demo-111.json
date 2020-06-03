@@ -1,0 +1,14 @@
+{
+  "euName": "demo-111",
+  "userName": "demo-111",
+  "coordinates": {
+    "latitude": 0,
+    "longitude": 0
+  },
+  "status": "ACTIVE",
+  "siteId": "1baaeff61472454aafbfca72422c33f7",
+  "euId": "1baaeff61472454aafbfca72422c33f7",
+  "userNameCanonical": "acct:fi185013-1@demo-111",
+  "sharedKey": "6c2e7ba2f30e48d68760ea8bb908d030",
+  "secretKey": "9aab81b501a04ae9a28e2a99085050ae"
+}

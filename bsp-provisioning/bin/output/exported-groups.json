@@ -1,0 +1,36 @@
+[
+  {
+    "groupName": "aaaaa",
+    "description": "bbbbb"
+  },
+  {
+    "groupName": "AAAGroup",
+    "description": "AAA Group Description"
+  },
+  {
+    "groupName": "AnotherNewGroup",
+    "description": "Another description here"
+  },
+  {
+    "groupName": "DemoGroupUsers",
+    "description": "Dummy Demo group"
+  },
+  {
+    "groupName": "MobileAppUsers"
+  },
+  {
+    "groupName": "NewGroupNameGoesHere",
+    "description": "Group description."
+  },
+  {
+    "groupName": "SiteControllerUsers"
+  },
+  {
+    "groupName": "SiteControllerUsers1585777673196",
+    "description": "Group to which site controller technical users should be assigned."
+  },
+  {
+    "groupName": "SomeValidGroup",
+    "description": "some valid description"
+  }
+]

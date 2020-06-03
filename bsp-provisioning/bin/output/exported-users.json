@@ -1,0 +1,322 @@
+[
+  {
+    "username": "acct:fi185013-1@demo-101",
+    "fullName": "acct:fi185013-1@demo-101",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@demo-111",
+    "fullName": "acct:fi185013-1@demo-111",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@fer",
+    "fullName": "acct:fi185013-1@fer",
+    "status": "ACTIVE",
+    "address": {},
+    "email": "fernando.icaza@ncr.com",
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@fi185013-service-user",
+    "fullName": "acct:fi185013-1@fi185013-service-user",
+    "status": "INACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@mobile-app-user",
+    "familyName": "Icaza",
+    "fullName": "Fernando Icaza",
+    "givenName": "Fernando",
+    "status": "INACTIVE",
+    "address": {},
+    "email": "fponceicaza@gmail.com",
+    "telephoneNumber": "1-888-555-1212",
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@sample-user",
+    "fullName": "acct:fi185013-1@sample-user",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@sample-user-2",
+    "fullName": "acct:fi185013-1@sample-user-2",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585776356728",
+    "fullName": "acct:fi185013-1@site-1585776356728",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585777034174",
+    "fullName": "acct:fi185013-1@site-1585777034174",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585777085368",
+    "fullName": "acct:fi185013-1@site-1585777085368",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585777338123",
+    "fullName": "acct:fi185013-1@site-1585777338123",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585777438783",
+    "fullName": "acct:fi185013-1@site-1585777438783",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585777587743",
+    "fullName": "acct:fi185013-1@site-1585777587743",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585777673196",
+    "fullName": "acct:fi185013-1@site-1585777673196",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585777959125",
+    "fullName": "acct:fi185013-1@site-1585777959125",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585778120763",
+    "fullName": "acct:fi185013-1@site-1585778120763",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585783677335",
+    "fullName": "acct:fi185013-1@site-1585783677335",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585783717412",
+    "fullName": "acct:fi185013-1@site-1585783717412",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585783820853",
+    "fullName": "acct:fi185013-1@site-1585783820853",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585783934760",
+    "fullName": "acct:fi185013-1@site-1585783934760",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585784122670",
+    "fullName": "acct:fi185013-1@site-1585784122670",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585784191363",
+    "fullName": "acct:fi185013-1@site-1585784191363",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585784361131",
+    "fullName": "acct:fi185013-1@site-1585784361131",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585784421182",
+    "fullName": "acct:fi185013-1@site-1585784421182",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585784460257",
+    "fullName": "acct:fi185013-1@site-1585784460257",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585785202187",
+    "fullName": "acct:fi185013-1@site-1585785202187",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585785291391",
+    "fullName": "acct:fi185013-1@site-1585785291391",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585788473056",
+    "fullName": "acct:fi185013-1@site-1585788473056",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585788473830",
+    "fullName": "acct:fi185013-1@site-1585788473830",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585788473831",
+    "fullName": "acct:fi185013-1@site-1585788473831",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585788473832",
+    "fullName": "acct:fi185013-1@site-1585788473832",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585788473833",
+    "fullName": "acct:fi185013-1@site-1585788473833",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585788473834",
+    "fullName": "acct:fi185013-1@site-1585788473834",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585788473835",
+    "fullName": "acct:fi185013-1@site-1585788473835",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585788473836",
+    "fullName": "acct:fi185013-1@site-1585788473836",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585788473837",
+    "fullName": "acct:fi185013-1@site-1585788473837",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585788473838",
+    "fullName": "acct:fi185013-1@site-1585788473838",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-1585788473839",
+    "fullName": "acct:fi185013-1@site-1585788473839",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-aaa-111111111",
+    "fullName": "acct:fi185013-1@site-aaa-111111111",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-aaa-222222222",
+    "fullName": "acct:fi185013-1@site-aaa-222222222",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-aaa-333333333",
+    "fullName": "acct:fi185013-1@site-aaa-333333333",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-aaa-444444444",
+    "fullName": "acct:fi185013-1@site-aaa-444444444",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-aaa-55555",
+    "fullName": "acct:fi185013-1@site-aaa-55555",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@site-aaa-666666",
+    "fullName": "acct:fi185013-1@site-aaa-666666",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  },
+  {
+    "username": "acct:fi185013-1@user-sample-site-1",
+    "fullName": "acct:fi185013-1@user-sample-site-1",
+    "status": "ACTIVE",
+    "address": {},
+    "primary": true
+  }
+]

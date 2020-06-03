@@ -1,0 +1,734 @@
+[
+  {
+    "id": "74d1d6adafe24934869600e9b9cde555",
+    "siteName": "0004 High Point NC",
+    "enterpriseUnitName": "KK00004",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "ed78ba68cfe741a6949337175e0abd18",
+    "siteName": "9999-xxx-yyy-zzz",
+    "enterpriseUnitName": "xyz",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "3edd164134e341a2b24648b4b5f3424c",
+    "siteName": "AA11",
+    "enterpriseUnitName": "AA11",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "56f0c3c3fff34893857bfc4e3c2ff2da",
+    "siteName": "AnotherNewNewSiteName",
+    "enterpriseUnitName": "AnotherNewNew Enterprise Unit Name",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "cbc8c089f54f4fd4a11882af650e8470",
+    "siteName": "demo-101",
+    "enterpriseUnitName": "demo-101",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "1baaeff61472454aafbfca72422c33f7",
+    "siteName": "demo-111",
+    "enterpriseUnitName": "demo-111",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "0ce08af414394369a7443153644f5a9b",
+    "siteName": "DUMMY Site #001",
+    "enterpriseUnitName": "DUMMY Site #001",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "34b6e5017cb849f395673c6bdeebe979",
+    "siteName": "Kum & Go #4020",
+    "enterpriseUnitName": "Kum and Go 4020",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "da9f944e48764ceab536a43aa2765a3c",
+    "siteName": "NewNewSiteName",
+    "enterpriseUnitName": "NewNew Enterprise Unit Name",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "5ea24956d6fd4370b07e822f132347cb",
+    "siteName": "sample-site-1",
+    "enterpriseUnitName": "sample-site-1",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "c8ea82db9e3f4d2ab51c63e8e41aeb72",
+    "siteName": "site-1585775174614",
+    "enterpriseUnitName": "eu-1585775174614",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "582e01701a5241aabece1f97912d489b",
+    "siteName": "site-1585776286090",
+    "enterpriseUnitName": "eu-1585776286090",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "8c7371207b334171b666767340fc572a",
+    "siteName": "site-1585776356728",
+    "enterpriseUnitName": "eu-1585776356728",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "ff783ca8daf84083839d8f15ec1ad3f6",
+    "siteName": "site-1585777034174",
+    "enterpriseUnitName": "eu-1585777034174",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "fe935bdd99dd4895b9761050690136f2",
+    "siteName": "site-1585777085368",
+    "enterpriseUnitName": "eu-1585777085368",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "b10a6c48811e42449753103902905a4f",
+    "siteName": "site-1585777338123",
+    "enterpriseUnitName": "eu-1585777338123",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "184d2128b23f40ac96bc0c8ad54087b4",
+    "siteName": "site-1585777438783",
+    "enterpriseUnitName": "eu-1585777438783",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "79542e56b12a456e9b698dd7bfcd7d95",
+    "siteName": "site-1585777587743",
+    "enterpriseUnitName": "eu-1585777587743",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "517548c0d0de492aac8ac61050e1b8bc",
+    "siteName": "site-1585777673196",
+    "enterpriseUnitName": "eu-1585777673196",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "09a4b790ecf14051a14e261bbd97e384",
+    "siteName": "site-1585777915319",
+    "enterpriseUnitName": "eu-1585777915319",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "fd33a5c632294b37a6cc7b6ec1cc79e4",
+    "siteName": "site-1585777959125",
+    "enterpriseUnitName": "eu-1585777959125",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "3752ccee06de4b51bc5a34a54c9f115b",
+    "siteName": "site-1585778120763",
+    "enterpriseUnitName": "eu-1585778120763",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "599f0efb75134aa5a25fa6477a6e32af",
+    "siteName": "site-1585783677335",
+    "enterpriseUnitName": "eu-1585783677335",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "382269b1507848569e40aae29cbabd31",
+    "siteName": "site-1585783717412",
+    "enterpriseUnitName": "eu-1585783717412",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "f46ee885848e4fd58a36a8ac52dbfaa9",
+    "siteName": "site-1585783820853",
+    "enterpriseUnitName": "eu-1585783820853",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "4e06f62053c84813ac9822b039142f38",
+    "siteName": "site-1585783934760",
+    "enterpriseUnitName": "eu-1585783934760",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "d5d8873dfa124236915427bc3534f0ba",
+    "siteName": "site-1585784122670",
+    "enterpriseUnitName": "eu-1585784122670",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "7410adfc972f40f495bf3c2008d67c57",
+    "siteName": "site-1585784191363",
+    "enterpriseUnitName": "eu-1585784191363",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "94224e02055a4fdb953c2f1398946633",
+    "siteName": "site-1585784361131",
+    "enterpriseUnitName": "eu-1585784361131",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "cbbb41519bc74087914b8a16558fd4f7",
+    "siteName": "site-1585784421182",
+    "enterpriseUnitName": "eu-1585784421182",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "98cebcc9551449d383f093ec018183fc",
+    "siteName": "site-1585784460257",
+    "enterpriseUnitName": "eu-1585784460257",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "6948063d77214fbdbd24540f578db81d",
+    "siteName": "site-1585785202187",
+    "enterpriseUnitName": "eu-1585785202187",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "324b3789b0dc4aa086b68f0278280da0",
+    "siteName": "site-1585785291391",
+    "enterpriseUnitName": "eu-1585785291391",
+    "coordinates": {
+      "latitude": 1,
+      "longitude": 2
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "c64867550ead4b9aa14641fb3395e65b",
+    "siteName": "site-1585788473056",
+    "enterpriseUnitName": "site-1585788473056",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "0f29ab904f5343a4b52dbfd2b7ddad1e",
+    "siteName": "site-1585788473830",
+    "enterpriseUnitName": "site-1585788473830",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "4ba8956600c04ea4bb2815186126fc8c",
+    "siteName": "site-1585788473831",
+    "enterpriseUnitName": "site-1585788473831",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "389373bb2b77493f89b1d1e20e82b41e",
+    "siteName": "site-1585788473832",
+    "enterpriseUnitName": "site-1585788473832",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "4dd54f430c874ab6a034009f95bddc34",
+    "siteName": "site-1585788473833",
+    "enterpriseUnitName": "site-1585788473833",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "db9b4e5d6c114edf8ae44a0f58192a21",
+    "siteName": "site-1585788473834",
+    "enterpriseUnitName": "site-1585788473834",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "bf74d263e9c14517b74fc987ddf60350",
+    "siteName": "site-1585788473835",
+    "enterpriseUnitName": "site-1585788473835",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "8d1a1705c1db48389b51c0fde86b58cf",
+    "siteName": "site-1585788473836",
+    "enterpriseUnitName": "site-1585788473836",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "9bae866394ca453eaab226906d8ea17b",
+    "siteName": "site-1585788473837",
+    "enterpriseUnitName": "site-1585788473837",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "964f0032c6524c80a46d941b78f02d45",
+    "siteName": "site-1585788473838",
+    "enterpriseUnitName": "site-1585788473838",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "8b4b46036cfb4c468488da3ef51ae96d",
+    "siteName": "site-1585788473839",
+    "enterpriseUnitName": "site-1585788473839",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "80f50bccc5cb4ad48985751d860bd4d5",
+    "siteName": "site-AAA-111111111",
+    "enterpriseUnitName": "site-AAA-111111111",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "ede453cabeda44cfad6bcec50ef208bb",
+    "siteName": "site-AAA-222222222",
+    "enterpriseUnitName": "site-AAA-222222222",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "f88cabebeb9246abb7c6b283db7d9016",
+    "siteName": "site-AAA-333333333",
+    "enterpriseUnitName": "site-AAA-333333333",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "fe3516aacfb54de7a2a6093ce5dbc6fb",
+    "siteName": "site-AAA-444444444",
+    "enterpriseUnitName": "site-AAA-444444444",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "c6c3a1bc5fba4b74bc3ef51073417081",
+    "siteName": "site-AAA-55555",
+    "enterpriseUnitName": "site-AAA-55555",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "aa9c9d6a689b414b80b41734b9ad0800",
+    "siteName": "site-AAA-666666",
+    "enterpriseUnitName": "euName-AAA-666666",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "99cb606b584f40419c5253557b5bde9f",
+    "siteName": "SiteName",
+    "enterpriseUnitName": "Enterprise Unit Name",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "67ada6dde7b34c0aa3f7c3763c3c90e9",
+    "siteName": "Testing Site #001",
+    "enterpriseUnitName": "Testing EU #001",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "bd10ba96b7344c3ab16f618838516ddd",
+    "siteName": "Testing Site #101",
+    "enterpriseUnitName": "Testing Site 101",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "fb8a5bf13a51409cbbbbdb11d505faab",
+    "siteName": "Testing Site #123",
+    "enterpriseUnitName": "Testing Site #123",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "697b0dc009204e10ab661e4032805215",
+    "siteName": "Testing Site #333",
+    "enterpriseUnitName": "Testing Site #333",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "c339f8ca7c1d4d44ad9a39cb132e9ae3",
+    "siteName": "Testing Site #666",
+    "enterpriseUnitName": "Testing Site 666",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "3159da243fb748bea8f1e4467b5e8637",
+    "siteName": "Testing Site #777",
+    "enterpriseUnitName": "Testing Site #777",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "76c8a02cf0224631af91aaabdfe19309",
+    "siteName": "Testing Site #999",
+    "enterpriseUnitName": "Testing Site #999",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "a6a0a9a5aa4a40f8af584aaa562a47aa",
+    "siteName": "Testing Site #AAA",
+    "enterpriseUnitName": "Testing Site AAA",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "0e945033384b49108e37c5a9d83f7d14",
+    "siteName": "www-1",
+    "enterpriseUnitName": "www1",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  },
+  {
+    "id": "f126a5eb245f4ca1ab2498d70b37b256",
+    "siteName": "ZZZ Zite",
+    "enterpriseUnitName": "ZZZ Zite EU",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "status": "ACTIVE",
+    "customAttributeSets": [],
+    "dayparts": []
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "aaaaa": [],
+  "AAAGroup": [],
+  "AnotherNewGroup": [],
+  "DemoGroupUsers": [],
+  "MobileAppUsers": [
+    {
+      "username": "acct:fi185013-1@mobile-app-user"
+    }
+  ],
+  "NewGroupNameGoesHere": [],
+  "SiteControllerUsers": [
+    {
+      "username": "acct:fi185013-1@site-1585783820853"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585788473832"
+    },
+    {
+      "username": "acct:fi185013-1@user-sample-site-1"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585784122670"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585784421182"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585778120763"
+    },
+    {
+      "username": "acct:fi185013-1@site-aaa-333333333"
+    },
+    {
+      "username": "acct:fi185013-1@demo-101"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585788473835"
+    },
+    {
+      "username": "acct:fi185013-1@site-aaa-111111111"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585788473834"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585783677335"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585785202187"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585788473056"
+    },
+    {
+      "username": "acct:fi185013-1@site-aaa-444444444"
+    },
+    {
+      "username": "acct:fi185013-1@site-aaa-666666"
+    },
+    {
+      "username": "acct:fi185013-1@demo-111"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585788473836"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585788473839"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585785291391"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585784361131"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585788473837"
+    },
+    {
+      "username": "acct:fi185013-1@site-aaa-55555"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585788473833"
+    },
+    {
+      "username": "acct:fi185013-1@mobile-app-user"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585788473831"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585788473838"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585788473830"
+    },
+    {
+      "username": "acct:fi185013-1@site-aaa-222222222"
+    },
+    {
+      "username": "acct:fi185013-1@fi185013-service-user"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585783717412"
+    },
+    {
+      "username": "acct:fi185013-1@site-1585784460257"
+    }
+  ],
+  "SiteControllerUsers1585777673196": [],
+  "SomeValidGroup": []
+}

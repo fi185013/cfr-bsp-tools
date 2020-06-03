@@ -1,0 +1,14 @@
+{
+  "euName": "auto-test-007",
+  "userName": "auto-test-007",
+  "coordinates": {
+    "latitude": 0,
+    "longitude": 0
+  },
+  "status": "ACTIVE",
+  "siteId": "094f4252783745d8bd27fd348130c316",
+  "euId": "094f4252783745d8bd27fd348130c316",
+  "userNameCanonical": "acct:fi185013-1@auto-test-007",
+  "sharedKey": "9406f36a219e43b08069095d56f8f97b",
+  "secretKey": "627ab2c521b446deb8acb0930ecdc8d0"
+}
